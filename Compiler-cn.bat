@@ -1,0 +1,1 @@
+python -m PyInstaller master-purser-cn.py --onefile --windowed --noconsole
